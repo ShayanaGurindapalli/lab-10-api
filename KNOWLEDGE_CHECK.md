@@ -14,4 +14,4 @@ Name the Lambda function from your screenshot. Why did Chalice create this funct
 
 **Your answer:**
 
-...
+Lambda func: book-analyzer-dev. Chalice creates this function instead of using Lab 07's because it is triggered by API requests, so there's a different lambda function.
